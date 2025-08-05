@@ -1,5 +1,5 @@
 <img src="image.png" alt="Fatima Mirza Banner" width="100%">
-## Hi there 👋
+
 
 <!--
 **codewithfatima11/codewithfatima11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
