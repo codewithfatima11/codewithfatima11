@@ -1,3 +1,4 @@
+<img src="banner.png" alt="Fatima Mirza Banner" width="100%">
 ## Hi there 👋
 
 <!--
