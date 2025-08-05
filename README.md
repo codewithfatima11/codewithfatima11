@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Fatima Mirza Banner" width="100%" />
+  <img src="image.png" alt="Fatima Mirza Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Fatima Mirza</h1>
