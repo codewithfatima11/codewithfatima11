@@ -5,11 +5,13 @@
 <h1 align="center">Hi 👋, I'm Fatima Mirza</h1>
 <h3 align="center">A beginner Python programmer from Pakistan</h3>
 
+<img align="right" alt="Coding girl" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
 ---
 
-- 🌱 I’m currently learning **Python and Jupyter Notebook**
-- 💻 I work with **Anaconda** for data analysis and coding
-- 🧠 Tools I use: Python, Jupyter Notebook, Anaconda, Adobe Illustrator
+- 🌱 I’m currently learning **Python and Jupyter Notebook**  
+- 💻 I work with **Anaconda** for data analysis and coding  
+- 🧠 Tools I use: Python, Jupyter Notebook, Anaconda, Adobe Illustrator  
 - 📫 You can reach me at **mirzafatima.22222@gmail.com**
 
 ---
@@ -23,13 +25,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40"/>
 </p>
 
-
-
-
-
 ---
 
 ### 📈 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithfatima11&layout=compact&theme=dracula" />
-  <img src="https://github
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithfatima11&show_icons=true&theme=dracula" />
+</p>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithfatima11&show_icons=true&theme=dracula" alt="Fatima's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithfatima11&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
+
