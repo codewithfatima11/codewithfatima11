@@ -5,7 +5,8 @@
 <h1 align="center">Hi 👋, I'm Fatima Mirza</h1>
 <h3 align="center">A beginner Python programmer from Pakistan</h3>
 
-<img align="right" alt="Coding girl" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img src="girl-laptop.png" alt="Girl coding on laptop" width="250" align="right"/>
+
 
 ---
 
@@ -16,7 +17,7 @@
 
 ---
 
-### 🧰 Languages and Tools:
+### ​ Languages and Tools:
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -27,16 +28,11 @@
 
 ---
 
-### 📈 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithfatima11&layout=compact&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithfatima11&show_icons=true&theme=dracula" />
-</p>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithfatima11&show_icons=true&theme=dracula" alt="Fatima's GitHub stats" />
-</p>
+### ​ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithfatima11&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithfatima11&layout=compact&theme=dracula" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithfatima11&show_icons=true&theme=dracula" alt="GitHub Stats"/>
 </p>
+
 
